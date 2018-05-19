@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/journaldev/jaxws/beans/SoapService.java=UTF-8
+encoding//src/com/journaldev/jaxws/service/ItemServiceImpl.java=UTF-8
+encoding//src/com/journaldev/jaxws/service/ItemServiceImplService.java=UTF-8
+encoding//src/com/journaldev/jaxws/service/ItemServiceImplServiceLocator.java=UTF-8
+encoding//src/com/journaldev/jaxws/service/ItemServiceImplSoapBindingStub.java=UTF-8
